@@ -1,0 +1,9 @@
+(
+  name: "mico-sc",
+  summary: "A Supercollider interface for the Mico controller",
+  version: "1.0.0",
+  schelp: "",
+  dependencies: ["CC14"],
+  license: "GPL",
+  copyright: "Mads Kjeldgaard, 2022"
+)
